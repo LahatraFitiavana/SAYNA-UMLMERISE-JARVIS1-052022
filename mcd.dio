@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="aHZn5goXtWtn4jxX7lRZ" name="Page-1">
-        <mxGraphModel dx="2220" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2389" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -106,7 +106,7 @@
                     <mxGeometry x="-740" y="-100" width="150" height="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" value="&lt;ul&gt;&lt;li&gt;&lt;u&gt;id_user&lt;/u&gt;&lt;/li&gt;&lt;li&gt;prénom&lt;/li&gt;&lt;li&gt;nom&lt;/li&gt;&lt;li&gt;date_de_naissance&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;li&gt;sexe&lt;/li&gt;&lt;li&gt;mot_de_passe&lt;/li&gt;&lt;li&gt;adresse&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="38" vertex="1">
-                    <mxGeometry x="-20" y="20" width="160" height="190" as="geometry"/>
+                    <mxGeometry x="-10" y="20" width="160" height="190" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Membre" style="swimlane;" parent="1" vertex="1">
                     <mxGeometry x="-840" y="250" width="120" height="110" as="geometry"/>
@@ -127,7 +127,7 @@
                     <mxGeometry x="-10" y="20" width="90" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="Domicile" style="swimlane;" parent="1" vertex="1">
-                    <mxGeometry x="-190" y="280" width="140" height="140" as="geometry"/>
+                    <mxGeometry x="-190" y="270" width="140" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="&lt;ul&gt;&lt;li&gt;&lt;u&gt;id_d&lt;/u&gt;&lt;/li&gt;&lt;li&gt;annee_construction&lt;/li&gt;&lt;li&gt;superficie&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="43" vertex="1">
                     <mxGeometry x="-20" y="25" width="160" height="90" as="geometry"/>
